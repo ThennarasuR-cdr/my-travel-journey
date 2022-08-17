@@ -1,0 +1,9 @@
+fileignoreconfig:
+- filename: loaders/GLTFLoader.js
+  checksum: 0c29159f5c72bf8245fa27fd8766ece9081a43cb82edde7a424b25dfb62c5de5
+- filename: three/build/three.module.js
+  checksum: d47bc1fb4a3e927e52e65b62aae0c5a693432487b4d0eee3ed924167a6829c93
+- filename: Objects/van.gltf
+  checksum: fb833901255bda40b336b145675dc1559a9f2542b222f7fe9e5c9f509d25419c
+- filename: Objects/Road.gltf
+  checksum: b2eb1ed40e64a263bb95b0bd3b0543ab065bde8617db0386221995e8e327a2cd
